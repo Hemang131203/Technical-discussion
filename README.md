@@ -14,5 +14,6 @@
  example [collab code](Technical_discussion.ipynb)
 
  ### Image example
- https://github.com/Hemang131203/Technical-discussion/issues/1
+ <img width="1848" height="822" alt="Screenshot 2026-01-12 210343" src="https://github.com/user-attachments/assets/3217aacc-1121-4ce5-9ceb-f64c3528869a" />
+
  
